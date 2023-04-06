@@ -1,0 +1,15 @@
+D:\Users\pietr\Área de Trabalho\Dev\c#-dotnet\2_LOGICA_C#\1_tipos_basicos_de_dados\bin\Debug\net6.0\1_tipos_basicos_de_dados.exe
+D:\Users\pietr\Área de Trabalho\Dev\c#-dotnet\2_LOGICA_C#\1_tipos_basicos_de_dados\bin\Debug\net6.0\1_tipos_basicos_de_dados.deps.json
+D:\Users\pietr\Área de Trabalho\Dev\c#-dotnet\2_LOGICA_C#\1_tipos_basicos_de_dados\bin\Debug\net6.0\1_tipos_basicos_de_dados.runtimeconfig.json
+D:\Users\pietr\Área de Trabalho\Dev\c#-dotnet\2_LOGICA_C#\1_tipos_basicos_de_dados\bin\Debug\net6.0\1_tipos_basicos_de_dados.dll
+D:\Users\pietr\Área de Trabalho\Dev\c#-dotnet\2_LOGICA_C#\1_tipos_basicos_de_dados\bin\Debug\net6.0\1_tipos_basicos_de_dados.pdb
+D:\Users\pietr\Área de Trabalho\Dev\c#-dotnet\2_LOGICA_C#\1_tipos_basicos_de_dados\obj\Debug\net6.0\1_tipos_basicos_de_dados.csproj.AssemblyReference.cache
+D:\Users\pietr\Área de Trabalho\Dev\c#-dotnet\2_LOGICA_C#\1_tipos_basicos_de_dados\obj\Debug\net6.0\1_tipos_basicos_de_dados.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\pietr\Área de Trabalho\Dev\c#-dotnet\2_LOGICA_C#\1_tipos_basicos_de_dados\obj\Debug\net6.0\1_tipos_basicos_de_dados.AssemblyInfoInputs.cache
+D:\Users\pietr\Área de Trabalho\Dev\c#-dotnet\2_LOGICA_C#\1_tipos_basicos_de_dados\obj\Debug\net6.0\1_tipos_basicos_de_dados.AssemblyInfo.cs
+D:\Users\pietr\Área de Trabalho\Dev\c#-dotnet\2_LOGICA_C#\1_tipos_basicos_de_dados\obj\Debug\net6.0\1_tipos_basicos_de_dados.csproj.CoreCompileInputs.cache
+D:\Users\pietr\Área de Trabalho\Dev\c#-dotnet\2_LOGICA_C#\1_tipos_basicos_de_dados\obj\Debug\net6.0\1_tipos_basicos_de_dados.dll
+D:\Users\pietr\Área de Trabalho\Dev\c#-dotnet\2_LOGICA_C#\1_tipos_basicos_de_dados\obj\Debug\net6.0\refint\1_tipos_basicos_de_dados.dll
+D:\Users\pietr\Área de Trabalho\Dev\c#-dotnet\2_LOGICA_C#\1_tipos_basicos_de_dados\obj\Debug\net6.0\1_tipos_basicos_de_dados.pdb
+D:\Users\pietr\Área de Trabalho\Dev\c#-dotnet\2_LOGICA_C#\1_tipos_basicos_de_dados\obj\Debug\net6.0\1_tipos_basicos_de_dados.genruntimeconfig.cache
+D:\Users\pietr\Área de Trabalho\Dev\c#-dotnet\2_LOGICA_C#\1_tipos_basicos_de_dados\obj\Debug\net6.0\ref\1_tipos_basicos_de_dados.dll
