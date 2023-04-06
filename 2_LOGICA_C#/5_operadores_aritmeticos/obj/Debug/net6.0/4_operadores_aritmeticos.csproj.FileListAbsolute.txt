@@ -1,0 +1,15 @@
+D:\Users\pietr\Área de Trabalho\Dev\c#-dotnet\2_LOGICA_C#\4_operadores_aritmeticos\bin\Debug\net6.0\4_operadores_aritmeticos.exe
+D:\Users\pietr\Área de Trabalho\Dev\c#-dotnet\2_LOGICA_C#\4_operadores_aritmeticos\bin\Debug\net6.0\4_operadores_aritmeticos.deps.json
+D:\Users\pietr\Área de Trabalho\Dev\c#-dotnet\2_LOGICA_C#\4_operadores_aritmeticos\bin\Debug\net6.0\4_operadores_aritmeticos.runtimeconfig.json
+D:\Users\pietr\Área de Trabalho\Dev\c#-dotnet\2_LOGICA_C#\4_operadores_aritmeticos\bin\Debug\net6.0\4_operadores_aritmeticos.dll
+D:\Users\pietr\Área de Trabalho\Dev\c#-dotnet\2_LOGICA_C#\4_operadores_aritmeticos\bin\Debug\net6.0\4_operadores_aritmeticos.pdb
+D:\Users\pietr\Área de Trabalho\Dev\c#-dotnet\2_LOGICA_C#\4_operadores_aritmeticos\obj\Debug\net6.0\4_operadores_aritmeticos.csproj.AssemblyReference.cache
+D:\Users\pietr\Área de Trabalho\Dev\c#-dotnet\2_LOGICA_C#\4_operadores_aritmeticos\obj\Debug\net6.0\4_operadores_aritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\pietr\Área de Trabalho\Dev\c#-dotnet\2_LOGICA_C#\4_operadores_aritmeticos\obj\Debug\net6.0\4_operadores_aritmeticos.AssemblyInfoInputs.cache
+D:\Users\pietr\Área de Trabalho\Dev\c#-dotnet\2_LOGICA_C#\4_operadores_aritmeticos\obj\Debug\net6.0\4_operadores_aritmeticos.AssemblyInfo.cs
+D:\Users\pietr\Área de Trabalho\Dev\c#-dotnet\2_LOGICA_C#\4_operadores_aritmeticos\obj\Debug\net6.0\4_operadores_aritmeticos.csproj.CoreCompileInputs.cache
+D:\Users\pietr\Área de Trabalho\Dev\c#-dotnet\2_LOGICA_C#\4_operadores_aritmeticos\obj\Debug\net6.0\4_operadores_aritmeticos.dll
+D:\Users\pietr\Área de Trabalho\Dev\c#-dotnet\2_LOGICA_C#\4_operadores_aritmeticos\obj\Debug\net6.0\refint\4_operadores_aritmeticos.dll
+D:\Users\pietr\Área de Trabalho\Dev\c#-dotnet\2_LOGICA_C#\4_operadores_aritmeticos\obj\Debug\net6.0\4_operadores_aritmeticos.pdb
+D:\Users\pietr\Área de Trabalho\Dev\c#-dotnet\2_LOGICA_C#\4_operadores_aritmeticos\obj\Debug\net6.0\4_operadores_aritmeticos.genruntimeconfig.cache
+D:\Users\pietr\Área de Trabalho\Dev\c#-dotnet\2_LOGICA_C#\4_operadores_aritmeticos\obj\Debug\net6.0\ref\4_operadores_aritmeticos.dll
