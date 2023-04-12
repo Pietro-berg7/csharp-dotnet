@@ -1,0 +1,15 @@
+D:\Users\pietr\Área de Trabalho\Dev\c#-dotnet\8_operadores_logicos\bin\Debug\net6.0\8_operadores_logicos.exe
+D:\Users\pietr\Área de Trabalho\Dev\c#-dotnet\8_operadores_logicos\bin\Debug\net6.0\8_operadores_logicos.deps.json
+D:\Users\pietr\Área de Trabalho\Dev\c#-dotnet\8_operadores_logicos\bin\Debug\net6.0\8_operadores_logicos.runtimeconfig.json
+D:\Users\pietr\Área de Trabalho\Dev\c#-dotnet\8_operadores_logicos\bin\Debug\net6.0\8_operadores_logicos.dll
+D:\Users\pietr\Área de Trabalho\Dev\c#-dotnet\8_operadores_logicos\bin\Debug\net6.0\8_operadores_logicos.pdb
+D:\Users\pietr\Área de Trabalho\Dev\c#-dotnet\8_operadores_logicos\obj\Debug\net6.0\8_operadores_logicos.csproj.AssemblyReference.cache
+D:\Users\pietr\Área de Trabalho\Dev\c#-dotnet\8_operadores_logicos\obj\Debug\net6.0\8_operadores_logicos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\pietr\Área de Trabalho\Dev\c#-dotnet\8_operadores_logicos\obj\Debug\net6.0\8_operadores_logicos.AssemblyInfoInputs.cache
+D:\Users\pietr\Área de Trabalho\Dev\c#-dotnet\8_operadores_logicos\obj\Debug\net6.0\8_operadores_logicos.AssemblyInfo.cs
+D:\Users\pietr\Área de Trabalho\Dev\c#-dotnet\8_operadores_logicos\obj\Debug\net6.0\8_operadores_logicos.csproj.CoreCompileInputs.cache
+D:\Users\pietr\Área de Trabalho\Dev\c#-dotnet\8_operadores_logicos\obj\Debug\net6.0\8_operadores_logicos.dll
+D:\Users\pietr\Área de Trabalho\Dev\c#-dotnet\8_operadores_logicos\obj\Debug\net6.0\refint\8_operadores_logicos.dll
+D:\Users\pietr\Área de Trabalho\Dev\c#-dotnet\8_operadores_logicos\obj\Debug\net6.0\8_operadores_logicos.pdb
+D:\Users\pietr\Área de Trabalho\Dev\c#-dotnet\8_operadores_logicos\obj\Debug\net6.0\8_operadores_logicos.genruntimeconfig.cache
+D:\Users\pietr\Área de Trabalho\Dev\c#-dotnet\8_operadores_logicos\obj\Debug\net6.0\ref\8_operadores_logicos.dll
