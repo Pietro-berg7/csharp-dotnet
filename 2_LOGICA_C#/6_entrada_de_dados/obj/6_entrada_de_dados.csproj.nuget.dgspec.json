@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\pietr\\Área de Trabalho\\Dev\\c#-dotnet\\2_LOGICA_C#\\6_entrada_de_dados\\6_entrada_de_dados.csproj": {}
+    "E:\\Dev\\c#-dotnet\\2_LOGICA_C#\\6_entrada_de_dados\\6_entrada_de_dados.csproj": {}
   },
   "projects": {
-    "D:\\Users\\pietr\\Área de Trabalho\\Dev\\c#-dotnet\\2_LOGICA_C#\\6_entrada_de_dados\\6_entrada_de_dados.csproj": {
+    "E:\\Dev\\c#-dotnet\\2_LOGICA_C#\\6_entrada_de_dados\\6_entrada_de_dados.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\pietr\\Área de Trabalho\\Dev\\c#-dotnet\\2_LOGICA_C#\\6_entrada_de_dados\\6_entrada_de_dados.csproj",
+        "projectUniqueName": "E:\\Dev\\c#-dotnet\\2_LOGICA_C#\\6_entrada_de_dados\\6_entrada_de_dados.csproj",
         "projectName": "6_entrada_de_dados",
-        "projectPath": "D:\\Users\\pietr\\Área de Trabalho\\Dev\\c#-dotnet\\2_LOGICA_C#\\6_entrada_de_dados\\6_entrada_de_dados.csproj",
+        "projectPath": "E:\\Dev\\c#-dotnet\\2_LOGICA_C#\\6_entrada_de_dados\\6_entrada_de_dados.csproj",
         "packagesPath": "C:\\Users\\pietr\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\pietr\\Área de Trabalho\\Dev\\c#-dotnet\\2_LOGICA_C#\\6_entrada_de_dados\\obj\\",
+        "outputPath": "E:\\Dev\\c#-dotnet\\2_LOGICA_C#\\6_entrada_de_dados\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

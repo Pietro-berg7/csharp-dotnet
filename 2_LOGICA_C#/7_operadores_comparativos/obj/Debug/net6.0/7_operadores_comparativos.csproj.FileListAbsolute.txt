@@ -1,0 +1,15 @@
+E:\Dev\c#-dotnet\2_LOGICA_C#\7_operadores_comparativos\bin\Debug\net6.0\7_operadores_comparativos.exe
+E:\Dev\c#-dotnet\2_LOGICA_C#\7_operadores_comparativos\bin\Debug\net6.0\7_operadores_comparativos.deps.json
+E:\Dev\c#-dotnet\2_LOGICA_C#\7_operadores_comparativos\bin\Debug\net6.0\7_operadores_comparativos.runtimeconfig.json
+E:\Dev\c#-dotnet\2_LOGICA_C#\7_operadores_comparativos\bin\Debug\net6.0\7_operadores_comparativos.dll
+E:\Dev\c#-dotnet\2_LOGICA_C#\7_operadores_comparativos\bin\Debug\net6.0\7_operadores_comparativos.pdb
+E:\Dev\c#-dotnet\2_LOGICA_C#\7_operadores_comparativos\obj\Debug\net6.0\7_operadores_comparativos.csproj.AssemblyReference.cache
+E:\Dev\c#-dotnet\2_LOGICA_C#\7_operadores_comparativos\obj\Debug\net6.0\7_operadores_comparativos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev\c#-dotnet\2_LOGICA_C#\7_operadores_comparativos\obj\Debug\net6.0\7_operadores_comparativos.AssemblyInfoInputs.cache
+E:\Dev\c#-dotnet\2_LOGICA_C#\7_operadores_comparativos\obj\Debug\net6.0\7_operadores_comparativos.AssemblyInfo.cs
+E:\Dev\c#-dotnet\2_LOGICA_C#\7_operadores_comparativos\obj\Debug\net6.0\7_operadores_comparativos.csproj.CoreCompileInputs.cache
+E:\Dev\c#-dotnet\2_LOGICA_C#\7_operadores_comparativos\obj\Debug\net6.0\7_operadores_comparativos.dll
+E:\Dev\c#-dotnet\2_LOGICA_C#\7_operadores_comparativos\obj\Debug\net6.0\refint\7_operadores_comparativos.dll
+E:\Dev\c#-dotnet\2_LOGICA_C#\7_operadores_comparativos\obj\Debug\net6.0\7_operadores_comparativos.pdb
+E:\Dev\c#-dotnet\2_LOGICA_C#\7_operadores_comparativos\obj\Debug\net6.0\7_operadores_comparativos.genruntimeconfig.cache
+E:\Dev\c#-dotnet\2_LOGICA_C#\7_operadores_comparativos\obj\Debug\net6.0\ref\7_operadores_comparativos.dll

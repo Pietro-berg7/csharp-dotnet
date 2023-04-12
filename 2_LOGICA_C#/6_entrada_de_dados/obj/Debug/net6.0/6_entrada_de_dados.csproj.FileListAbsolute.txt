@@ -13,3 +13,18 @@ D:\Users\pietr\Área de Trabalho\Dev\c#-dotnet\2_LOGICA_C#\6_entrada_de_dados\ob
 D:\Users\pietr\Área de Trabalho\Dev\c#-dotnet\2_LOGICA_C#\6_entrada_de_dados\obj\Debug\net6.0\6_entrada_de_dados.pdb
 D:\Users\pietr\Área de Trabalho\Dev\c#-dotnet\2_LOGICA_C#\6_entrada_de_dados\obj\Debug\net6.0\6_entrada_de_dados.genruntimeconfig.cache
 D:\Users\pietr\Área de Trabalho\Dev\c#-dotnet\2_LOGICA_C#\6_entrada_de_dados\obj\Debug\net6.0\ref\6_entrada_de_dados.dll
+E:\Dev\c#-dotnet\2_LOGICA_C#\6_entrada_de_dados\bin\Debug\net6.0\6_entrada_de_dados.exe
+E:\Dev\c#-dotnet\2_LOGICA_C#\6_entrada_de_dados\bin\Debug\net6.0\6_entrada_de_dados.deps.json
+E:\Dev\c#-dotnet\2_LOGICA_C#\6_entrada_de_dados\bin\Debug\net6.0\6_entrada_de_dados.runtimeconfig.json
+E:\Dev\c#-dotnet\2_LOGICA_C#\6_entrada_de_dados\bin\Debug\net6.0\6_entrada_de_dados.dll
+E:\Dev\c#-dotnet\2_LOGICA_C#\6_entrada_de_dados\bin\Debug\net6.0\6_entrada_de_dados.pdb
+E:\Dev\c#-dotnet\2_LOGICA_C#\6_entrada_de_dados\obj\Debug\net6.0\6_entrada_de_dados.csproj.AssemblyReference.cache
+E:\Dev\c#-dotnet\2_LOGICA_C#\6_entrada_de_dados\obj\Debug\net6.0\6_entrada_de_dados.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev\c#-dotnet\2_LOGICA_C#\6_entrada_de_dados\obj\Debug\net6.0\6_entrada_de_dados.AssemblyInfoInputs.cache
+E:\Dev\c#-dotnet\2_LOGICA_C#\6_entrada_de_dados\obj\Debug\net6.0\6_entrada_de_dados.AssemblyInfo.cs
+E:\Dev\c#-dotnet\2_LOGICA_C#\6_entrada_de_dados\obj\Debug\net6.0\6_entrada_de_dados.csproj.CoreCompileInputs.cache
+E:\Dev\c#-dotnet\2_LOGICA_C#\6_entrada_de_dados\obj\Debug\net6.0\6_entrada_de_dados.dll
+E:\Dev\c#-dotnet\2_LOGICA_C#\6_entrada_de_dados\obj\Debug\net6.0\refint\6_entrada_de_dados.dll
+E:\Dev\c#-dotnet\2_LOGICA_C#\6_entrada_de_dados\obj\Debug\net6.0\6_entrada_de_dados.pdb
+E:\Dev\c#-dotnet\2_LOGICA_C#\6_entrada_de_dados\obj\Debug\net6.0\6_entrada_de_dados.genruntimeconfig.cache
+E:\Dev\c#-dotnet\2_LOGICA_C#\6_entrada_de_dados\obj\Debug\net6.0\ref\6_entrada_de_dados.dll
