@@ -1,0 +1,15 @@
+D:\Users\pietr\Área de Trabalho\c#-dotnet\2_LOGICA_C#\10_escopo_e_inicializacao\bin\Debug\net6.0\10_escopo_e_inicializacao.exe
+D:\Users\pietr\Área de Trabalho\c#-dotnet\2_LOGICA_C#\10_escopo_e_inicializacao\bin\Debug\net6.0\10_escopo_e_inicializacao.deps.json
+D:\Users\pietr\Área de Trabalho\c#-dotnet\2_LOGICA_C#\10_escopo_e_inicializacao\bin\Debug\net6.0\10_escopo_e_inicializacao.runtimeconfig.json
+D:\Users\pietr\Área de Trabalho\c#-dotnet\2_LOGICA_C#\10_escopo_e_inicializacao\bin\Debug\net6.0\10_escopo_e_inicializacao.dll
+D:\Users\pietr\Área de Trabalho\c#-dotnet\2_LOGICA_C#\10_escopo_e_inicializacao\bin\Debug\net6.0\10_escopo_e_inicializacao.pdb
+D:\Users\pietr\Área de Trabalho\c#-dotnet\2_LOGICA_C#\10_escopo_e_inicializacao\obj\Debug\net6.0\10_escopo_e_inicializacao.csproj.AssemblyReference.cache
+D:\Users\pietr\Área de Trabalho\c#-dotnet\2_LOGICA_C#\10_escopo_e_inicializacao\obj\Debug\net6.0\10_escopo_e_inicializacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\pietr\Área de Trabalho\c#-dotnet\2_LOGICA_C#\10_escopo_e_inicializacao\obj\Debug\net6.0\10_escopo_e_inicializacao.AssemblyInfoInputs.cache
+D:\Users\pietr\Área de Trabalho\c#-dotnet\2_LOGICA_C#\10_escopo_e_inicializacao\obj\Debug\net6.0\10_escopo_e_inicializacao.AssemblyInfo.cs
+D:\Users\pietr\Área de Trabalho\c#-dotnet\2_LOGICA_C#\10_escopo_e_inicializacao\obj\Debug\net6.0\10_escopo_e_inicializacao.csproj.CoreCompileInputs.cache
+D:\Users\pietr\Área de Trabalho\c#-dotnet\2_LOGICA_C#\10_escopo_e_inicializacao\obj\Debug\net6.0\10_escopo_e_inicializacao.dll
+D:\Users\pietr\Área de Trabalho\c#-dotnet\2_LOGICA_C#\10_escopo_e_inicializacao\obj\Debug\net6.0\refint\10_escopo_e_inicializacao.dll
+D:\Users\pietr\Área de Trabalho\c#-dotnet\2_LOGICA_C#\10_escopo_e_inicializacao\obj\Debug\net6.0\10_escopo_e_inicializacao.pdb
+D:\Users\pietr\Área de Trabalho\c#-dotnet\2_LOGICA_C#\10_escopo_e_inicializacao\obj\Debug\net6.0\10_escopo_e_inicializacao.genruntimeconfig.cache
+D:\Users\pietr\Área de Trabalho\c#-dotnet\2_LOGICA_C#\10_escopo_e_inicializacao\obj\Debug\net6.0\ref\10_escopo_e_inicializacao.dll
