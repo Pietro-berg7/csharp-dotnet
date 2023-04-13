@@ -1,0 +1,15 @@
+D:\Users\pietr\Área de Trabalho\c#-dotnet\03_CLASSES_ATRIBUTOS_METODOS_E_MEMBROS_ESTATICOS\SEGUNDO_PROBLEMA\bin\Debug\net6.0\SEGUNDO_PROBLEMA.exe
+D:\Users\pietr\Área de Trabalho\c#-dotnet\03_CLASSES_ATRIBUTOS_METODOS_E_MEMBROS_ESTATICOS\SEGUNDO_PROBLEMA\bin\Debug\net6.0\SEGUNDO_PROBLEMA.deps.json
+D:\Users\pietr\Área de Trabalho\c#-dotnet\03_CLASSES_ATRIBUTOS_METODOS_E_MEMBROS_ESTATICOS\SEGUNDO_PROBLEMA\bin\Debug\net6.0\SEGUNDO_PROBLEMA.runtimeconfig.json
+D:\Users\pietr\Área de Trabalho\c#-dotnet\03_CLASSES_ATRIBUTOS_METODOS_E_MEMBROS_ESTATICOS\SEGUNDO_PROBLEMA\bin\Debug\net6.0\SEGUNDO_PROBLEMA.dll
+D:\Users\pietr\Área de Trabalho\c#-dotnet\03_CLASSES_ATRIBUTOS_METODOS_E_MEMBROS_ESTATICOS\SEGUNDO_PROBLEMA\bin\Debug\net6.0\SEGUNDO_PROBLEMA.pdb
+D:\Users\pietr\Área de Trabalho\c#-dotnet\03_CLASSES_ATRIBUTOS_METODOS_E_MEMBROS_ESTATICOS\SEGUNDO_PROBLEMA\obj\Debug\net6.0\SEGUNDO_PROBLEMA.csproj.AssemblyReference.cache
+D:\Users\pietr\Área de Trabalho\c#-dotnet\03_CLASSES_ATRIBUTOS_METODOS_E_MEMBROS_ESTATICOS\SEGUNDO_PROBLEMA\obj\Debug\net6.0\SEGUNDO_PROBLEMA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\pietr\Área de Trabalho\c#-dotnet\03_CLASSES_ATRIBUTOS_METODOS_E_MEMBROS_ESTATICOS\SEGUNDO_PROBLEMA\obj\Debug\net6.0\SEGUNDO_PROBLEMA.AssemblyInfoInputs.cache
+D:\Users\pietr\Área de Trabalho\c#-dotnet\03_CLASSES_ATRIBUTOS_METODOS_E_MEMBROS_ESTATICOS\SEGUNDO_PROBLEMA\obj\Debug\net6.0\SEGUNDO_PROBLEMA.AssemblyInfo.cs
+D:\Users\pietr\Área de Trabalho\c#-dotnet\03_CLASSES_ATRIBUTOS_METODOS_E_MEMBROS_ESTATICOS\SEGUNDO_PROBLEMA\obj\Debug\net6.0\SEGUNDO_PROBLEMA.csproj.CoreCompileInputs.cache
+D:\Users\pietr\Área de Trabalho\c#-dotnet\03_CLASSES_ATRIBUTOS_METODOS_E_MEMBROS_ESTATICOS\SEGUNDO_PROBLEMA\obj\Debug\net6.0\SEGUNDO_PROBLEMA.dll
+D:\Users\pietr\Área de Trabalho\c#-dotnet\03_CLASSES_ATRIBUTOS_METODOS_E_MEMBROS_ESTATICOS\SEGUNDO_PROBLEMA\obj\Debug\net6.0\refint\SEGUNDO_PROBLEMA.dll
+D:\Users\pietr\Área de Trabalho\c#-dotnet\03_CLASSES_ATRIBUTOS_METODOS_E_MEMBROS_ESTATICOS\SEGUNDO_PROBLEMA\obj\Debug\net6.0\SEGUNDO_PROBLEMA.pdb
+D:\Users\pietr\Área de Trabalho\c#-dotnet\03_CLASSES_ATRIBUTOS_METODOS_E_MEMBROS_ESTATICOS\SEGUNDO_PROBLEMA\obj\Debug\net6.0\SEGUNDO_PROBLEMA.genruntimeconfig.cache
+D:\Users\pietr\Área de Trabalho\c#-dotnet\03_CLASSES_ATRIBUTOS_METODOS_E_MEMBROS_ESTATICOS\SEGUNDO_PROBLEMA\obj\Debug\net6.0\ref\SEGUNDO_PROBLEMA.dll
