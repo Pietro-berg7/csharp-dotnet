@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Course {
+﻿namespace Course {
     class Program {
         static void Main(string[] args) {
 
@@ -18,8 +16,8 @@ namespace Course {
         static int Maior(int a, int b, int c) {
 
             int m;
-            
-            if(a > b && a > c) {
+
+            if (a > b && a > c) {
                 m = a;
             }
             else if (b > c) {
