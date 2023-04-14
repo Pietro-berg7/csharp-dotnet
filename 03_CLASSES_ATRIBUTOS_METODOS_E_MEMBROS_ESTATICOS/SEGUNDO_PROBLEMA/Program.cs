@@ -15,7 +15,24 @@ namespace SEGUNDO_PROBLEMA {
             Console.Write("Quantidade no estoque: ");
             p.Quantidade = Convert.ToInt32(Console.ReadLine());
 
+            Console.WriteLine();
             Console.WriteLine("Dados do produto: " + p);
+
+            Console.WriteLine();
+            Console.Write("Digite o número de produtos a ser adicionado ao estoque: ");
+            int qte = Convert.ToInt32(Console.ReadLine());
+            p.AdicionarProdutos(qte);
+
+            Console.WriteLine();
+            Console.WriteLine("Dados atualizados: " + p);
+
+            Console.WriteLine();
+            Console.Write("Digite o número de produtos a ser removido do estoque: ");
+            qte = Convert.ToInt32(Console.ReadLine());
+            p.RemoverProdutos(qte);
+
+            Console.WriteLine();
+            Console.WriteLine("Dados atualizados: " + p);
 
         }
     }
