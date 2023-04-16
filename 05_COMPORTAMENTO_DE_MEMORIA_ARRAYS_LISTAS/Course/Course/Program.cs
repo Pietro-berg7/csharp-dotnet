@@ -1,8 +1,29 @@
 ﻿using System;
+using System.Globalization;
 
 namespace Course {
     class Program {
         static void Main(string[] args) {
+
+            int n = Convert.ToInt32(Console.ReadLine());
+
+            double[] vect = new double[n];
+
+            for (int i = 0; i < n; i++) {
+                vect[i] = Convert.ToDouble(Console.ReadLine(), CultureInfo.InvariantCulture);
+            }
+
+            double sum = 0.00;
+            for (int i = 0;i < n; i++) {
+                sum += vect[i];
+            }
+
+            double avg = sum / n;
+
+            Console.WriteLine("AVERAGE HEIGHT = " + avg.ToString("F2", CultureInfo.InvariantCulture));
+
+
+
 
             //Nullable<double> x = null;
             //double? x = null;
@@ -28,14 +49,14 @@ namespace Course {
             //    Console.WriteLine("Y id null");
             //}
 
-            double? x = null;
-            double? y = 10;
+            //double? x = null;
+            //double? y = 10;
 
-            double a = x ?? 5;
-            double b = y ?? 5;
+            //double a = x ?? 5;
+            //double b = y ?? 5;
 
-            Console.WriteLine(a);
-            Console.WriteLine(b);
+            //Console.WriteLine(a);
+            //Console.WriteLine(b);
 
         }
     }
