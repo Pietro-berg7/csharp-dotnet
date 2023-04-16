@@ -1,0 +1,15 @@
+D:\Users\pietr\Área de Trabalho\c#-dotnet\04_CONSTRUTORES_THIS_SOBRECARGA_E_ENCAPSULAMENTO\Exercise\Exercise\bin\Debug\net6.0\Exercise.exe
+D:\Users\pietr\Área de Trabalho\c#-dotnet\04_CONSTRUTORES_THIS_SOBRECARGA_E_ENCAPSULAMENTO\Exercise\Exercise\bin\Debug\net6.0\Exercise.deps.json
+D:\Users\pietr\Área de Trabalho\c#-dotnet\04_CONSTRUTORES_THIS_SOBRECARGA_E_ENCAPSULAMENTO\Exercise\Exercise\bin\Debug\net6.0\Exercise.runtimeconfig.json
+D:\Users\pietr\Área de Trabalho\c#-dotnet\04_CONSTRUTORES_THIS_SOBRECARGA_E_ENCAPSULAMENTO\Exercise\Exercise\bin\Debug\net6.0\Exercise.dll
+D:\Users\pietr\Área de Trabalho\c#-dotnet\04_CONSTRUTORES_THIS_SOBRECARGA_E_ENCAPSULAMENTO\Exercise\Exercise\bin\Debug\net6.0\Exercise.pdb
+D:\Users\pietr\Área de Trabalho\c#-dotnet\04_CONSTRUTORES_THIS_SOBRECARGA_E_ENCAPSULAMENTO\Exercise\Exercise\obj\Debug\net6.0\Exercise.csproj.AssemblyReference.cache
+D:\Users\pietr\Área de Trabalho\c#-dotnet\04_CONSTRUTORES_THIS_SOBRECARGA_E_ENCAPSULAMENTO\Exercise\Exercise\obj\Debug\net6.0\Exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\pietr\Área de Trabalho\c#-dotnet\04_CONSTRUTORES_THIS_SOBRECARGA_E_ENCAPSULAMENTO\Exercise\Exercise\obj\Debug\net6.0\Exercise.AssemblyInfoInputs.cache
+D:\Users\pietr\Área de Trabalho\c#-dotnet\04_CONSTRUTORES_THIS_SOBRECARGA_E_ENCAPSULAMENTO\Exercise\Exercise\obj\Debug\net6.0\Exercise.AssemblyInfo.cs
+D:\Users\pietr\Área de Trabalho\c#-dotnet\04_CONSTRUTORES_THIS_SOBRECARGA_E_ENCAPSULAMENTO\Exercise\Exercise\obj\Debug\net6.0\Exercise.csproj.CoreCompileInputs.cache
+D:\Users\pietr\Área de Trabalho\c#-dotnet\04_CONSTRUTORES_THIS_SOBRECARGA_E_ENCAPSULAMENTO\Exercise\Exercise\obj\Debug\net6.0\Exercise.dll
+D:\Users\pietr\Área de Trabalho\c#-dotnet\04_CONSTRUTORES_THIS_SOBRECARGA_E_ENCAPSULAMENTO\Exercise\Exercise\obj\Debug\net6.0\refint\Exercise.dll
+D:\Users\pietr\Área de Trabalho\c#-dotnet\04_CONSTRUTORES_THIS_SOBRECARGA_E_ENCAPSULAMENTO\Exercise\Exercise\obj\Debug\net6.0\Exercise.pdb
+D:\Users\pietr\Área de Trabalho\c#-dotnet\04_CONSTRUTORES_THIS_SOBRECARGA_E_ENCAPSULAMENTO\Exercise\Exercise\obj\Debug\net6.0\Exercise.genruntimeconfig.cache
+D:\Users\pietr\Área de Trabalho\c#-dotnet\04_CONSTRUTORES_THIS_SOBRECARGA_E_ENCAPSULAMENTO\Exercise\Exercise\obj\Debug\net6.0\ref\Exercise.dll
