@@ -6,11 +6,12 @@ namespace Course {
 
             Produto p = new Produto("TV", 500.00, 10);
 
-            p.SetNome("T");
+            p.Nome = "TV 4K";
+            // p.Preco = 10.0;
 
-            Console.WriteLine(p.GetNome());
-            Console.WriteLine(p.GetPreco());
-            Console.WriteLine(p.GetQuantidade());
+            Console.WriteLine(p.Nome);
+            Console.WriteLine(p.Preco);
+            Console.WriteLine(p.Quantidade);
 
         }
     }
