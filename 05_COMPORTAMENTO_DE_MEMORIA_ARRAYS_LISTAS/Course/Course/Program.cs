@@ -5,23 +5,49 @@ namespace Course {
     class Program {
         static void Main(string[] args) {
 
+            Console.Write("How many rooms will be rented? ");
             int n = Convert.ToInt32(Console.ReadLine());
 
-            Product[] vect = new Product[n];
+            Rooms[] rooms = new Rooms[10];
 
             for (int i = 0; i < n; i++) {
+                Console.WriteLine("\nRent #{0}", i + 1);
+                Console.Write("Name: ");
                 string name = Console.ReadLine();
-                double price = Convert.ToDouble(Console.ReadLine(), CultureInfo.InvariantCulture);
-                vect[i] = new Product { Name = name, Price = price };
+                Console.Write("Email: ");
+                string email = Console.ReadLine();
+                Console.Write("Room: ");
+                int room = Convert.ToInt32(Console.ReadLine());
+                rooms[room] = new Rooms { Name = name, Email = email, Room = room };
             }
 
-            double sum = 0.0;
-            for (int i = 0; i < n; i++) {
-                sum += vect[i].Price;
+            Console.WriteLine("\nBusy rooms:");
+            for (int i = 0; i < rooms.Length; ++i) {
+                if (rooms[i] != null) {
+                    Console.WriteLine(rooms[i]);
+                }
             }
 
-            double avg = sum / n;
-            Console.WriteLine("AVERAGE PRICE = " + avg.ToString("F2", CultureInfo.InvariantCulture));
+
+
+
+            //int n = Convert.ToInt32(Console.ReadLine());
+
+            //Product[] vect = new Product[n];
+
+            //for (int i = 0; i < n; i++) {
+            //    string name = Console.ReadLine();
+            //    double price = Convert.ToDouble(Console.ReadLine(), CultureInfo.InvariantCulture);
+            //    vect[i] = new Product { Name = name, Price = price };
+            //}
+
+            //double sum = 0.0;
+            //for (int i = 0; i < n; i++) {
+            //    sum += vect[i].Price;
+            //}
+
+            //double avg = sum / n;
+            //Console.WriteLine("AVERAGE PRICE = " + avg.ToString("F2", CultureInfo.InvariantCulture));
 
 
 
