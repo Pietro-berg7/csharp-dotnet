@@ -5,13 +5,27 @@ namespace Course {
     class Program {
         static void Main(string[] args) {
 
+            // out
+            int b = 10;
+            int triple;
+            Calculator.Triple2(b, out triple);
+            Console.WriteLine(triple);
 
-            int s1 = Calculator.Sum(2, 3);
-            int s2 = Calculator.Sum(2, 4, 3);
+            // ref
+            int a = 10;
+            Calculator.Triple(ref a);
+            Console.WriteLine(a);
+
+
+
+
+
+            //int s1 = Calculator.Sum(2, 3);
+            //int s2 = Calculator.Sum(2, 4, 3);
             //int result = Calculator.Sum(new int[] { 10, 20, 30, 40 });
 
-            Console.WriteLine(s1);
-            Console.WriteLine(s2);
+            //Console.WriteLine(s1);
+            //Console.WriteLine(s2);
 
 
 
@@ -39,6 +53,7 @@ namespace Course {
             //        Console.WriteLine(rooms[i]);
             //    }
             //}
+
 
 
 
