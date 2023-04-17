@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
+    "\\04_CONSTRUTORES_THIS_SOBRECARGA_E_ENCAPSULAMENTO",
+    "\\04_CONSTRUTORES_THIS_SOBRECARGA_E_ENCAPSULAMENTO\\Exercise",
+    "\\04_CONSTRUTORES_THIS_SOBRECARGA_E_ENCAPSULAMENTO\\Exercise\\Exercise",
     "\\05_COMPORTAMENTO_DE_MEMORIA_ARRAYS_LISTAS"
   ],
-  "SelectedNode": "\\05_COMPORTAMENTO_DE_MEMORIA_ARRAYS_LISTAS",
+  "SelectedNode": "\\04_CONSTRUTORES_THIS_SOBRECARGA_E_ENCAPSULAMENTO\\Exercise\\Exercise\\ContaBancaria.cs",
   "PreviewInSolutionExplorer": false
 }

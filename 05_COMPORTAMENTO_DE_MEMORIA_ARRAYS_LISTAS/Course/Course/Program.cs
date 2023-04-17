@@ -5,28 +5,40 @@ namespace Course {
     class Program {
         static void Main(string[] args) {
 
-            Console.Write("How many rooms will be rented? ");
-            int n = Convert.ToInt32(Console.ReadLine());
 
-            Rooms[] rooms = new Rooms[10];
+            int s1 = Calculator.Sum(2, 3);
+            int s2 = Calculator.Sum(2, 4, 3);
+            //int result = Calculator.Sum(new int[] { 10, 20, 30, 40 });
 
-            for (int i = 0; i < n; i++) {
-                Console.WriteLine("\nRent #{0}", i + 1);
-                Console.Write("Name: ");
-                string name = Console.ReadLine();
-                Console.Write("Email: ");
-                string email = Console.ReadLine();
-                Console.Write("Room: ");
-                int room = Convert.ToInt32(Console.ReadLine());
-                rooms[room] = new Rooms { Name = name, Email = email, Room = room };
-            }
+            Console.WriteLine(s1);
+            Console.WriteLine(s2);
 
-            Console.WriteLine("\nBusy rooms:");
-            for (int i = 0; i < rooms.Length; ++i) {
-                if (rooms[i] != null) {
-                    Console.WriteLine(rooms[i]);
-                }
-            }
+
+
+
+
+            //Console.Write("How many rooms will be rented? ");
+            //int n = Convert.ToInt32(Console.ReadLine());
+
+            //Rooms[] rooms = new Rooms[10];
+
+            //for (int i = 0; i < n; i++) {
+            //    Console.WriteLine("\nRent #{0}", i + 1);
+            //    Console.Write("Name: ");
+            //    string name = Console.ReadLine();
+            //    Console.Write("Email: ");
+            //    string email = Console.ReadLine();
+            //    Console.Write("Room: ");
+            //    int room = Convert.ToInt32(Console.ReadLine());
+            //    rooms[room] = new Rooms { Name = name, Email = email, Room = room };
+            //}
+
+            //Console.WriteLine("\nBusy rooms:");
+            //for (int i = 0; i < rooms.Length; ++i) {
+            //    if (rooms[i] != null) {
+            //        Console.WriteLine(rooms[i]);
+            //    }
+            //}
 
 
 
