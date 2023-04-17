@@ -5,16 +5,32 @@ namespace Course {
     class Program {
         static void Main(string[] args) {
 
-            // out
-            int b = 10;
-            int triple;
-            Calculator.Triple2(b, out triple);
-            Console.WriteLine(triple);
+            string[] vect = new string[] { "Maria", "Alex", "Bob" };
 
-            // ref
-            int a = 10;
-            Calculator.Triple(ref a);
-            Console.WriteLine(a);
+            for (int i = 0; i < vect.Length; i++) {
+                Console.WriteLine(vect[i]);
+            }
+
+            Console.WriteLine("---------------------------------");
+
+            foreach (string obj in vect) {
+                Console.WriteLine(obj);
+            }
+
+
+
+
+
+            //// out
+            //int b = 10;
+            //int triple;
+            //Calculator.Triple2(b, out triple);
+            //Console.WriteLine(triple);
+
+            //// ref
+            //int a = 10;
+            //Calculator.Triple(ref a);
+            //Console.WriteLine(a);
 
 
 
