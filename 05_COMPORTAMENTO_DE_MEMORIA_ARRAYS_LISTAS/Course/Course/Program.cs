@@ -7,20 +7,43 @@ namespace Course {
 
             int n = Convert.ToInt32(Console.ReadLine());
 
-            double[] vect = new double[n];
+            Product[] vect = new Product[n];
 
             for (int i = 0; i < n; i++) {
-                vect[i] = Convert.ToDouble(Console.ReadLine(), CultureInfo.InvariantCulture);
+                string name = Console.ReadLine();
+                double price = Convert.ToDouble(Console.ReadLine(), CultureInfo.InvariantCulture);
+                vect[i] = new Product { Name = name, Price = price };
             }
 
-            double sum = 0.00;
-            for (int i = 0;i < n; i++) {
-                sum += vect[i];
+            double sum = 0.0;
+            for (int i = 0; i < n; i++) {
+                sum += vect[i].Price;
             }
 
             double avg = sum / n;
+            Console.WriteLine("AVERAGE PRICE = " + avg.ToString("F2", CultureInfo.InvariantCulture));
 
-            Console.WriteLine("AVERAGE HEIGHT = " + avg.ToString("F2", CultureInfo.InvariantCulture));
+
+
+
+
+            //int n = Convert.ToInt32(Console.ReadLine());
+
+            //double[] vect = new double[n];
+
+            //for (int i = 0; i < n; i++) {
+            //    vect[i] = Convert.ToDouble(Console.ReadLine(), CultureInfo.InvariantCulture);
+            //}
+
+            //double sum = 0.00;
+            //for (int i = 0;i < n; i++) {
+            //    sum += vect[i];
+            //}
+
+            //double avg = sum / n;
+
+            //Console.WriteLine("AVERAGE HEIGHT = " + avg.ToString("F2", CultureInfo.InvariantCulture));
+
 
 
 
