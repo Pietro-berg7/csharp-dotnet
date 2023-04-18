@@ -1,0 +1,15 @@
+D:\Users\pietr\Área de Trabalho\c#-dotnet\05_COMPORTAMENTO_DE_MEMORIA_ARRAYS_LISTAS\Lists\Lists\bin\Debug\net6.0\Lists.exe
+D:\Users\pietr\Área de Trabalho\c#-dotnet\05_COMPORTAMENTO_DE_MEMORIA_ARRAYS_LISTAS\Lists\Lists\bin\Debug\net6.0\Lists.deps.json
+D:\Users\pietr\Área de Trabalho\c#-dotnet\05_COMPORTAMENTO_DE_MEMORIA_ARRAYS_LISTAS\Lists\Lists\bin\Debug\net6.0\Lists.runtimeconfig.json
+D:\Users\pietr\Área de Trabalho\c#-dotnet\05_COMPORTAMENTO_DE_MEMORIA_ARRAYS_LISTAS\Lists\Lists\bin\Debug\net6.0\Lists.dll
+D:\Users\pietr\Área de Trabalho\c#-dotnet\05_COMPORTAMENTO_DE_MEMORIA_ARRAYS_LISTAS\Lists\Lists\bin\Debug\net6.0\Lists.pdb
+D:\Users\pietr\Área de Trabalho\c#-dotnet\05_COMPORTAMENTO_DE_MEMORIA_ARRAYS_LISTAS\Lists\Lists\obj\Debug\net6.0\Lists.csproj.AssemblyReference.cache
+D:\Users\pietr\Área de Trabalho\c#-dotnet\05_COMPORTAMENTO_DE_MEMORIA_ARRAYS_LISTAS\Lists\Lists\obj\Debug\net6.0\Lists.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\pietr\Área de Trabalho\c#-dotnet\05_COMPORTAMENTO_DE_MEMORIA_ARRAYS_LISTAS\Lists\Lists\obj\Debug\net6.0\Lists.AssemblyInfoInputs.cache
+D:\Users\pietr\Área de Trabalho\c#-dotnet\05_COMPORTAMENTO_DE_MEMORIA_ARRAYS_LISTAS\Lists\Lists\obj\Debug\net6.0\Lists.AssemblyInfo.cs
+D:\Users\pietr\Área de Trabalho\c#-dotnet\05_COMPORTAMENTO_DE_MEMORIA_ARRAYS_LISTAS\Lists\Lists\obj\Debug\net6.0\Lists.csproj.CoreCompileInputs.cache
+D:\Users\pietr\Área de Trabalho\c#-dotnet\05_COMPORTAMENTO_DE_MEMORIA_ARRAYS_LISTAS\Lists\Lists\obj\Debug\net6.0\Lists.dll
+D:\Users\pietr\Área de Trabalho\c#-dotnet\05_COMPORTAMENTO_DE_MEMORIA_ARRAYS_LISTAS\Lists\Lists\obj\Debug\net6.0\refint\Lists.dll
+D:\Users\pietr\Área de Trabalho\c#-dotnet\05_COMPORTAMENTO_DE_MEMORIA_ARRAYS_LISTAS\Lists\Lists\obj\Debug\net6.0\Lists.pdb
+D:\Users\pietr\Área de Trabalho\c#-dotnet\05_COMPORTAMENTO_DE_MEMORIA_ARRAYS_LISTAS\Lists\Lists\obj\Debug\net6.0\Lists.genruntimeconfig.cache
+D:\Users\pietr\Área de Trabalho\c#-dotnet\05_COMPORTAMENTO_DE_MEMORIA_ARRAYS_LISTAS\Lists\Lists\obj\Debug\net6.0\ref\Lists.dll
