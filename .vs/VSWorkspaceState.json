@@ -1,12 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\04_CONSTRUTORES_THIS_SOBRECARGA_E_ENCAPSULAMENTO\\Exercise",
-    "\\04_CONSTRUTORES_THIS_SOBRECARGA_E_ENCAPSULAMENTO\\Exercise\\Exercise",
     "\\05_COMPORTAMENTO_DE_MEMORIA_ARRAYS_LISTAS",
     "\\05_COMPORTAMENTO_DE_MEMORIA_ARRAYS_LISTAS\\Course",
     "\\05_COMPORTAMENTO_DE_MEMORIA_ARRAYS_LISTAS\\Course\\Course"
   ],
-  "SelectedNode": "\\05_COMPORTAMENTO_DE_MEMORIA_ARRAYS_LISTAS\\Course\\Course\\Calculator.cs",
+  "SelectedNode": "\\05_COMPORTAMENTO_DE_MEMORIA_ARRAYS_LISTAS\\Course\\Course.sln",
   "PreviewInSolutionExplorer": false
 }
