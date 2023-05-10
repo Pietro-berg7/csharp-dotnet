@@ -8,11 +8,42 @@ namespace Course
         static void Main(string[] args)
         {
 
-            DateTime d1 = DateTime.ParseExact("2000-08-15", "yyyy-MM-dd", CultureInfo.InvariantCulture);
-            DateTime d2 = DateTime.ParseExact("15/08/2000 13:05:58", "dd/MM/yyyy HH:mm:ss", CultureInfo.InvariantCulture);
+            TimeSpan t1 = TimeSpan.FromDays(1.5);
+            TimeSpan t2 = TimeSpan.FromHours(1.5);
+            TimeSpan t3 = TimeSpan.FromMinutes(1.5);
+            TimeSpan t4 = TimeSpan.FromSeconds(1.5);
+            TimeSpan t5 = TimeSpan.FromMilliseconds(1.5);
+            TimeSpan t6 = TimeSpan.FromTicks(900000000L);
 
-            Console.WriteLine(d1);
-            Console.WriteLine(d2);
+            Console.WriteLine(t1);
+            Console.WriteLine(t2);
+            Console.WriteLine(t3);
+            Console.WriteLine(t4);
+            Console.WriteLine(t5);
+            Console.WriteLine(t6);
+
+            //TimeSpan t1 = new TimeSpan();
+            //TimeSpan t2 = new TimeSpan(900000000L);
+            //TimeSpan t3 = new TimeSpan(2, 11, 21);
+            //TimeSpan t4 = new TimeSpan(1, 2, 11, 21);
+            //TimeSpan t5 = new TimeSpan(1, 2, 11, 21, 321);
+
+            //Console.WriteLine(t1);
+            //Console.WriteLine(t2);
+            //Console.WriteLine(t3);
+            //Console.WriteLine(t4);
+            //Console.WriteLine(t5);
+
+
+
+
+
+
+            //DateTime d1 = DateTime.ParseExact("2000-08-15", "yyyy-MM-dd", CultureInfo.InvariantCulture);
+            //DateTime d2 = DateTime.ParseExact("15/08/2000 13:05:58", "dd/MM/yyyy HH:mm:ss", CultureInfo.InvariantCulture);
+
+            //Console.WriteLine(d1);
+            //Console.WriteLine(d2);
 
             //DateTime d1 = DateTime.Parse("2000-08-15");
             //DateTime d2 = DateTime.Parse("2000-08-15 13:05:58");
