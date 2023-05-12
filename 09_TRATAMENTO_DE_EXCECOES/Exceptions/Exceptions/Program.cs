@@ -29,14 +29,11 @@ namespace Exceptions
                 Console.Write("Check-out date (dd/MM/yyyy): ");
                 checkOut = Convert.ToDateTime(Console.ReadLine());
 
-                DateTime now = DateTime.Now;
-                if (checkIn < now || checkOut < now)
+                string error = reservation.UpdateDates(checkIn, checkOut);
+
+                if (error != null)
                 {
-                    Console.WriteLine("Error in reservation: Reservation dates for update must be future dates");
-                }
-                else if (checkOut <= checkIn)
-                {
-                    Console.WriteLine("Error in reservation: Check-out date must be after check-in date");
+                    Console.WriteLine("Error in reservation: " + error);
                 }
                 else
                 {
