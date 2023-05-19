@@ -8,32 +8,68 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             string path = @"C:\temp\file1.txt";
-            // FileStream fs = null;
-            StreamReader sr = null;
-            
+
             try
             {
-                sr = File.OpenText(path);
-                while (!sr.EndOfStream)
+                using (StreamReader sr = File.OpenText(path))
                 {
-                    string line = sr.ReadLine();
-                    Console.WriteLine(line);
+                    while (!sr.EndOfStream)
+                    {
+                        string line = sr.ReadLine();
+                        Console.WriteLine(line);
+                    }
                 }
-                // fs = new FileStream(path, FileMode.Open);
-                // sr = new StreamReader(fs);
-                // string line = sr.ReadLine();
-                // Console.WriteLine(line);
+
+                //using (FileStream fs = new FileStream(path, FileMode.Open))
+                //{
+                //    using (StreamReader sr = new StreamReader(fs))
+                //    {
+                //        while (!sr.EndOfStream)
+                //        {
+                //            string line = sr.ReadLine();
+                //            Console.WriteLine(line);
+                //        }
+                //    }
+                //}
             }
-            catch(IOException e)
+            catch (IOException e)
             {
                 Console.WriteLine("An error ocurred");
                 Console.WriteLine(e.Message);
             }
-            finally
-            {
-                // if (fs != null) fs.Close(); // fs?.Close();
-                if (sr != null) sr.Close(); // sr?.Close();
-            }
+
+
+
+
+
+
+            //string path = @"C:\temp\file1.txt";
+            //// FileStream fs = null;
+            //StreamReader sr = null;
+
+            //try
+            //{
+            //    sr = File.OpenText(path);
+            //    while (!sr.EndOfStream)
+            //    {
+            //        string line = sr.ReadLine();
+            //        Console.WriteLine(line);
+            //    }
+            //    // fs = new FileStream(path, FileMode.Open);
+            //    // sr = new StreamReader(fs);
+            //    // string line = sr.ReadLine();
+            //    // Console.WriteLine(line);
+            //}
+            //catch(IOException e)
+            //{
+            //    Console.WriteLine("An error ocurred");
+            //    Console.WriteLine(e.Message);
+            //}
+            //finally
+            //{
+            //    // if (fs != null) fs.Close(); // fs?.Close();
+            //    if (sr != null) sr.Close(); // sr?.Close();
+            //}
 
 
 
