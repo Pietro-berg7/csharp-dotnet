@@ -7,26 +7,57 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            string sourcePath = @"C:\temp\file1.txt";
-            string targetPath = @"C:\temp\file2.txt";
+            string path = @"c:\temp\myfolder";
 
             try
             {
-                string[] lines = File.ReadAllLines(sourcePath);
-
-                using (StreamWriter sw = File.AppendText(targetPath))
+                IEnumerable<string> folders = Directory.EnumerateDirectories(path, "*.*", SearchOption.AllDirectories);
+                Console.WriteLine("FOLDERS:");
+                foreach (string s in folders)
                 {
-                    foreach (string line in lines)
-                    {
-                        sw.WriteLine(line.ToUpper());
-                    }
+                    Console.WriteLine(s);
                 }
+
+                IEnumerable<string> files = Directory.EnumerateFiles(path, "*.*", SearchOption.AllDirectories);
+                Console.WriteLine("FILES:");
+                foreach (string s in files)
+                {
+                    Console.WriteLine(s);
+                }
+
+                Directory.CreateDirectory(path + @"\newfolder");
             }
             catch (IOException e)
             {
-                Console.WriteLine("An error ocurred");
+                Console.WriteLine("An error occurred");
                 Console.WriteLine(e.Message);
             }
+
+
+
+
+
+
+            //string sourcePath = @"C:\temp\file1.txt";
+            //string targetPath = @"C:\temp\file2.txt";
+
+            //try
+            //{
+            //    string[] lines = File.ReadAllLines(sourcePath);
+
+            //    using (StreamWriter sw = File.AppendText(targetPath))
+            //    {
+            //        foreach (string line in lines)
+            //        {
+            //            sw.WriteLine(line.ToUpper());
+            //        }
+            //    }
+            //}
+            //catch (IOException e)
+            //{
+            //    Console.WriteLine("An error ocurred");
+            //    Console.WriteLine(e.Message);
+            //}
 
 
 
