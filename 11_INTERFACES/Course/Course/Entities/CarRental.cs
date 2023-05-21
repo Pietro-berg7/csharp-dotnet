@@ -1,4 +1,4 @@
-﻿namespace Course.Entities
+﻿namespace Interfaces1.Entities
 {
     internal class CarRental
     {

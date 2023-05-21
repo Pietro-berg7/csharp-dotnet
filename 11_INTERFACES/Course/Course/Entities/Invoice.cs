@@ -1,6 +1,6 @@
 ﻿using System.Globalization;
 
-namespace Course.Entities
+namespace Interfaces1.Entities
 {
     internal class Invoice
     {

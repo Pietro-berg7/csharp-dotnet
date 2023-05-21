@@ -1,4 +1,4 @@
-﻿namespace Course.Services
+﻿namespace Interfaces1.Services
 {
     interface ITaxService
     {

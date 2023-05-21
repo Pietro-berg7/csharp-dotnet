@@ -1,9 +1,9 @@
-﻿using Course.Entities;
-using Course.Services;
+﻿using Interfaces1.Entities;
+using Interfaces1.Services;
 using System;
 using System.Globalization;
 
-namespace Course
+namespace Interfaces1
 {
     class Program
     {

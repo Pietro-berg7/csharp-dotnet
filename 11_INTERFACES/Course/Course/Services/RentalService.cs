@@ -1,6 +1,6 @@
-﻿using Course.Entities;
+﻿using Interfaces1.Entities;
 
-namespace Course.Services
+namespace Interfaces1.Services
 {
     internal class RentalService
     {

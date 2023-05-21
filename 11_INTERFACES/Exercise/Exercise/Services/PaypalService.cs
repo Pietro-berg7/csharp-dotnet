@@ -1,6 +1,6 @@
 ﻿namespace Exercise.Services
 {
-    internal class PaypalService : IOnlinePaymentService
+    class PaypalService: IOnlinePaymentService
     {
         private const double FeePercentage = 0.02;
         private const double MonthlyInterest = 0.01;
