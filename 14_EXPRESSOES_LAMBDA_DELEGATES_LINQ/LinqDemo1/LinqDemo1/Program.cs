@@ -62,6 +62,31 @@ namespace LinqDemo1
             var r9 = products.Where(p => p.Id == 30).SingleOrDefault();
             Console.WriteLine("Single or default test2: " + r9);
             Console.WriteLine();
+
+            var r10 = products.Max(p => p.Price);
+            Console.WriteLine("Max price: " + r10);
+            var r11 = products.Min(p => p.Price);
+            Console.WriteLine("Min price: " + r11);
+            var r12 = products.Where(p => p.Category.Id == 1).Sum(p => p.Price);
+            Console.WriteLine("Category 1 Sum prices: " + r12);
+            var r13 = products.Where(p => p.Category.Id == 1).Average(p => p.Price);
+            Console.WriteLine("Category 1 Average prices: " + r13);
+            var r14 = products.Where(p => p.Category.Id == 5).Select(p => p.Price).DefaultIfEmpty(0.0).Average();
+            Console.WriteLine("Category 5 Average prices: " + r14);
+            var r15 = products.Where(p => p.Category.Id == 1).Select(p => p.Price).Aggregate(0.0, (x, y) => x + y);
+            Console.WriteLine("Category 1 aggregate sum: " + r15);
+            Console.WriteLine();
+
+            var r16 = products.GroupBy(p => p.Category);
+            foreach (IGrouping<Category, Product> group in r16)
+            {
+                Console.WriteLine("Category " + group.Key.Name + ":");
+                foreach (Product p in group)
+                {
+                    Console.WriteLine(p);
+                }
+                Console.WriteLine();
+            }
         }
     }
 }
