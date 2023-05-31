@@ -1,10 +1,23 @@
 ﻿using ExemploPOO.Models;
 
-ContaCorrente c1 = new ContaCorrente(123, 1000);
+Aluno a1 = new Aluno();
+a1.Nome = "Pietro";
+a1.Idade = 23;
+a1.Email = "teste@teste.com";
+a1.Nota = 10;
 
-c1.ExibirSaldo();
-c1.Sacar(500);
-c1.ExibirSaldo();
+a1.Apresentar();
+
+
+
+
+
+
+//ContaCorrente c1 = new ContaCorrente(123, 1000);
+
+//c1.ExibirSaldo();
+//c1.Sacar(500);
+//c1.ExibirSaldo();
 
 
 
