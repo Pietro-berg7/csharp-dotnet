@@ -1,8 +1,17 @@
 ﻿using ExemploPOO.Models;
 
-Corrente c = new Corrente();
-c.Creditar(500);
-c.ExibirSaldo();
+Pessoa p1 = new Pessoa("Pietro");
+Aluno a1 = new Aluno("Eduardo");
+a1.Apresentar();
+
+
+
+
+
+
+//Corrente c = new Corrente();
+//c.Creditar(500);
+//c.ExibirSaldo();
 
 
 

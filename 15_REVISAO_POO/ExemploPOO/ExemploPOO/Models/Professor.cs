@@ -6,8 +6,14 @@ using System.Threading.Tasks;
 
 namespace ExemploPOO.Models
 {
-    internal class Professor : Pessoa
+    internal class Professor: Pessoa
     {
+        public Professor() { }
+
+        public Professor(string nome) : base(nome)
+        {
+        }
+
         public double Salario { get; set; }
 
         public override void Apresentar()
