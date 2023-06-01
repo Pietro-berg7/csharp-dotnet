@@ -1,8 +1,16 @@
 ﻿using ExemploPOO.Models;
 
-Pessoa p1 = new Pessoa("Pietro");
-Aluno a1 = new Aluno("Eduardo");
-a1.Apresentar();
+Computador c = new Computador();
+Console.WriteLine(c.ToString());
+
+
+
+
+
+
+//Pessoa p1 = new Pessoa("Pietro");
+//Aluno a1 = new Aluno("Eduardo");
+//a1.Apresentar();
 
 
 
