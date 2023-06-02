@@ -1,0 +1,4 @@
+SELECT * FROM Clientes WHERE Id = 1002
+
+DELETE Clientes
+WHERE Id = 1002
