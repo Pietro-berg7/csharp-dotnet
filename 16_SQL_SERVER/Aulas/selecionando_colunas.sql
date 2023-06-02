@@ -1,2 +1,2 @@
-SELECT Nome, Sobrenome, Email FROM Clientes
+SELECT * FROM Clientes
 ORDER BY Nome, Sobrenome
