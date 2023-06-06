@@ -21,3 +21,21 @@ EXEC InserirNovoProduto
 
 --INSERT INTO Produtos (Nome, Cor, Preco, Tamanho, Genero)
 --VALUES (@Nome, @Cor, @Preco, @Tamanho, @Genero)
+
+
+
+
+SELECT * FROM Produtos WHERE Tamanho = 'M'
+
+EXEC ObterProdutosPorTamanho 'P'
+EXEC ObterTodosProdutos
+
+CREATE PROCEDURE ObterTodosProdutos
+AS
+SELECT * FROM Produtos
+
+
+CREATE PROCEDURE ObterProdutosPorTamanho
+@TamanhoProduto VARCHAR(5)
+AS
+SELECT * FROM Produtos WHERE Tamanho = @TamanhoProduto
